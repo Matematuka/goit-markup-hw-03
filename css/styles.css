@@ -88,7 +88,8 @@ margin-bottom: 0;
 
 .menu {
   display: flex;
-    align-items: center;
+  align-items: center;
+  margin-right: 76px;
 
 }
 
